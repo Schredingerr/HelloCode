@@ -1,4 +1,4 @@
-﻿int numberA = new Random().Next(1, 100); //1 2 3 4 ...
+﻿int numberA = new Random().Next(1, 100); //1 2 3 4 ... 100
 Console.WriteLine(numberA);
 int numberB = new Random().Next(1, 100);
 Console.WriteLine(numberB);
